@@ -1,0 +1,8 @@
+{
+    "name": "davidalger/composer-basename-bug-case",
+    "type": "composer-basename-bug-case",
+    "description": "Reproduces the scenario causing the bug in Issue #76.",
+    "require": {
+        "magento-hackathon/magento-composer-installer":"*"
+    },
+}
